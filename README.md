@@ -45,13 +45,17 @@ Before training, the dataset was cleaned and analyzed to ensure consistency:
 The following visualizations summarize the dataset structure:
 
 * Emotion distribution:
-* <img src="https://github.com/meemanali/Tic-Tac-Toe-Xtreme/blob/main/Tic%20Tac%20Toe.png" alt="Tic Tac Toe" width="220" title="Tic Tac Toe">
+
+<div>
+  <img src="https://github.com/meemanali/Saraiki-Poetry-Sentiment-Analysis-NLP/blob/main/Analysis/Emotion%20Distribution.png" alt="Emotion distribution" width="360" title="Emotion distribution">
+</div>
 
 * Sentiment (positive / negative) distribution:
-* <img src="https://github.com/meemanali/Tic-Tac-Toe-Xtreme/blob/main/Tic%20Tac%20Toe.png" alt="Tic Tac Toe" width="220" title="Tic Tac Toe">
+  
+<img src="https://github.com/meemanali/Saraiki-Poetry-Sentiment-Analysis-NLP/blob/main/Analysis/Sentiments%20Labeling.png" alt="Sentiment distribution" width="360" title="Sentiment distribution">
 
 * Emotion → sentiment mapping:
-* <img src="https://github.com/meemanali/Tic-Tac-Toe-Xtreme/blob/main/Tic%20Tac%20Toe.png" alt="Tic Tac Toe" width="220" title="Tic Tac Toe">
+* <img src="https://github.com/meemanali/Saraiki-Poetry-Sentiment-Analysis-NLP/blob/main/Analysis/Emotion%20Sentiments%20Mapping.png" alt="Sentiment mapping" width="360" title="Sentiment mapping">
 
 
 ## Methodology
