@@ -46,17 +46,21 @@ The following visualizations summarize the dataset structure:
 
 * Emotion distribution:
 
-<div>
-  <img src="https://github.com/meemanali/Saraiki-Poetry-Sentiment-Analysis-NLP/blob/main/Analysis/Emotion%20Distribution.png" alt="Emotion distribution" width="360" title="Emotion distribution">
+<div align="center">
+  <img src="https://github.com/meemanali/Saraiki-Poetry-Sentiment-Analysis-NLP/blob/main/Analysis/Emotion%20Distribution.png" alt="Emotion distribution" width="420" title="Emotion distribution">
 </div>
 
 * Sentiment (positive / negative) distribution:
-  
-<img src="https://github.com/meemanali/Saraiki-Poetry-Sentiment-Analysis-NLP/blob/main/Analysis/Sentiments%20Labeling.png" alt="Sentiment distribution" width="360" title="Sentiment distribution">
+
+<div align="center">
+<img src="https://github.com/meemanali/Saraiki-Poetry-Sentiment-Analysis-NLP/blob/main/Analysis/Sentiments%20Labeling.png" alt="Sentiment distribution" width="420" title="Sentiment distribution">
+</div>
 
 * Emotion → sentiment mapping:
-* <img src="https://github.com/meemanali/Saraiki-Poetry-Sentiment-Analysis-NLP/blob/main/Analysis/Emotion%20Sentiments%20Mapping.png" alt="Sentiment mapping" width="360" title="Sentiment mapping">
 
+<div align="center">
+<img src="https://github.com/meemanali/Saraiki-Poetry-Sentiment-Analysis-NLP/blob/main/Analysis/Emotion%20Sentiments%20Mapping.png" alt="Sentiment mapping" width="420" title="Sentiment mapping">
+</div>
 
 ## Methodology
 
