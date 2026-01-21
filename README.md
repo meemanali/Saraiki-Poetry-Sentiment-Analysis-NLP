@@ -17,6 +17,10 @@ The focus is on:
 * Total samples: 958 (full dataset kept private)
 * Public release: Partial sample only
 
+<div align="center">
+  <img src="https://github.com/meemanali/Saraiki-Poetry-Sentiment-Analysis-NLP/blob/main/Analysis/Collected%20Data.PNG" alt="Emotion distribution" width="420" title="Emotion distribution">
+</div>
+
 ## Annotation Strategy
 
 Each poem was manually labeled with an emotion:
