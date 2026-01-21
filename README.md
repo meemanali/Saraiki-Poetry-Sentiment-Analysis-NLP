@@ -116,4 +116,5 @@ Results should be interpreted as exploratory and baseline-level, not production-
 * TensorFlow / Keras
 * TensorFlow Lite
 
-
+## Note
+This project emphasizes data preparation, language challenges, and applied ML workflow in a low-resource setting rather than optimized model performance.
